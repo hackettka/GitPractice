@@ -1,0 +1,1 @@
+This is my readme file that i created through the commmand line. woohh whoo! 
